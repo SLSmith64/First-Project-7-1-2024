@@ -1,0 +1,184 @@
+Slide 1: " A Goal without a plan is just a wish"
+
+Slide 2: 
+	*Build a portfolio Site
+		Build a professional, attractive portfolio site.
+
+	*Build 5 mini Sites
+		Build 5 mini sites based on coding challenges
+
+	*Build 3 Business Class Projects
+		Build a Blog
+
+Slide 3: 
+	Portfolio Site
+		The portfolio site is your primary vehicle for showing people what you can do.
+		Professional hosted
+		custom domain
+		responsive
+	
+	Contains 6 Main Sections
+		About Section
+		Skills Section
+		Coding Challenge
+		Projects
+		Blog 
+		Contact
+
+Slide 4: Build
+
+Slide 5: Mini Sites
+	What is a mini site?
+		Mini sites are built around coding challenges and have smaller scope than a coding project.
+		Professionally hosted with unique domain names.
+
+	Results
+		Improves SEO Rank
+
+Slide 6: Build 3 Business Class Projects
+	Business Class
+	Solves a Business Problem
+	Implements Security
+	Uses a Database
+	Demo Logins
+	Attractive
+
+	Results
+	Massive Credibility
+	DEMO Artifact for YouTube and Interviews
+	Ability to control Interviews
+	More visibility as a developer
+
+Slide 7: Publish you code to GitHub
+	* Publish your code
+	* Enhance your readme
+
+Slide 8: Why this works
+	Massive credibility and visibility.
+	Drives traffic to your portfolio
+	Increase your SEO relevancy
+
+Slide 9: "Today i will do what others won't so tomorrow i can do what others can't" -Jerry Rice-
+
+Slide 10: Step 2 - Promote
+	Getting a job requires that hiring managers can find you!
+	
+Slide 11: Social Marketing
+	Twitter
+
+	LinkedIn
+		Create a profile today!
+		Take a professional photo
+		Fill the profile out completely
+		Create Posts about your blog articles
+		Engage in posts about coding and technology.
+		Engage in posts from hiring managers.
+		Message hiring managers directly
+		Tell them why your fit for their role.
+		Show them your portfolio.
+		Ask for a conversation.
+
+	Other Blog Platforms
+		Publish your blog articles medium and dev.to
+
+Slide 12: Step 3 - Interview
+	Getting a job requires that you get an interview!
+		Work with Recruiters
+	Build a relationships with recruiters
+		Take Control of interviews
+		Turn Interviews into Demos Relate Questions to your portfolio
+		Ask for the Job
+
+Slide 13: Why this work
+	You
+		1-Portfolio site
+		5-mini sites
+		3-Projects
+		20-Blog Articles
+		Enhanced Git Hub
+		Resume
+	Other Candidates
+		
+Slide 14: Take the First Job
+	When you get an offer take it. The first job is for the experience. Second job can be about other things like location, pay and benefits.
+
+Slide 15: Trust The Process
+
+Slide 16: Steps for Success
+	1: Lecture - Code Along
+		Attend All lectures. Code Along with the Instructor.
+	2: Daily Lab 
+		Each day you will have a lab to complete
+	3: Weekly Deliverable
+		Each week is a graded deliverable. These Items will mostly be on your portfolio.
+
+Slide 17: Steps For Finding A Job
+	1: Learn to Code
+		Attend All Lectures. Code Along with the Instructor.
+	2: Build All the Projects
+		...
+
+Slide 18: Your Actions Matter
+	Society has many Barriers, Race, Age, Economic, Family, Gender etc... All these factors can be inhibitors to you finding success.
+	We can overcome these with our actions.
+	1: Learn 
+	The Boot Camp Attent
+	2: Build
+	3: Show and Talk
+
+Slide 19: Trust the Process
+
+Slide 20: Coder Foundry Challenge Coin
+Earned not given
+	Special recognition to you as a student and candidate for employment
+Requires successful completion of coder foundry
+Challenge coins students additional credibility
+	Step one - Commitment
+	Build 4 projects to specification:
+	1. Portfolio
+	2. Contact Pro
+	3. Blog
+	4. Bug Tracker
+
+	Each Project will be feivew
+
+	Step two - Challenge
+	Pass a 3rd Party C# Exam.
+
+	This exam will be administered in week 12.
+
+	A combination of questions and coding challenges.
+	
+	Proctored by Hacker Rank
+
+	Step Three - Excellence
+	Pass a technical interview with coder foundry staff
+	
+	Tests your ability to answer tech questions with academic answers and demonstratable knowledge.
+	
+	Final interview swill take place during week 12.
+
+Homework:
+	research href
+
+*****Styles of the same name the last file overrides the first one***
+
+Add 2 paragprahs about marvel
+
+FIND A MARVEL HERO AND ADD IT TO THE LIST OF HEROS
+chang the lorem ipsum text into real info about marvel.
+Make a page with the bio
+extra credit make it clickable to navigate the bio page hint Anchor tag.
+
+
+Homework:
+	research href
+
+*****Styles of the same name the last file overrides the first one***
+
+Add 2 paragraphs about marvel
+
+FIND A MARVEL HERO AND ADD IT TO THE LIST OF HEROS
+change the lorem ipsum text into real info about marvel.
+Make a page with the bio
+extra credit make it clickable to navigate the bio page hint Anchor tag.
